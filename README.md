@@ -1,6 +1,7 @@
 # Drug-Monitoring-System-DMS
-Drug Monitoring System with Notification
-ABSTRACT.
+* Drug Monitoring System with Notification
+# ABSTRACT
+
 The Pharmacy/Chemist Drug Monitoring System is a system that helps pharmacy and chemists
 not to sell expiry drugs to the local mwananchi who has little or no knowledge concerning drugs
 and its expiry. The PCDMS allows health experts in pharmacies and chemists to classify drugs in
